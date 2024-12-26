@@ -1,6 +1,9 @@
 # Movieapp
 This Flutter application provides information regarding the latest, trending, and top-rated movies and TV shows. Users can view ratings, release dates, posters, and detailed information about films and shows. Additionally, users can search for their favorite movies.
 
+![homepage](https://github.com/user-attachments/assets/2d0e4103-7afa-4508-8596-63feed5eb32c)
+![Discription](https://github.com/user-attachments/assets/e97933d4-3bc4-4d90-bfbc-d6eb4dda2a32)
+
 ## Features
 
 - **Firebase Authentication**
