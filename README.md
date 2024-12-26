@@ -31,9 +31,3 @@ This Flutter application provides information regarding the latest, trending, an
 
 - Integrate Google Sign-In for easier authentication.
 - Add features for users to bookmark their favorite films and create personalized collections.
-
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/film-tv-app.git
