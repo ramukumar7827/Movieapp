@@ -29,9 +29,3 @@ This Flutter application provides information regarding the latest, trending, an
     - Release Date
     - Rating
     - Overview
-
-## Future Plans
-
-- Integrate Google Sign-In for easier authentication.
-- Add features for users to bookmark their favorite films and create personalized collections.
->>>>>>> 0e27c230d3cc57cb74ea74a855b5f6ac08fef0e4
