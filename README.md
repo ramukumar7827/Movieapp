@@ -1,16 +1,37 @@
-# movie_app
+# Movie App
 
-A new Flutter project.
+A Flutter-based movie browsing application that allows users to explore trending, top-rated, and now-playing movies using the TMDB API. Includes Firebase-powered authentication for secure signup, login, and password reset.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- User authentication using Firebase (signup, login, password reset)
+- Real-time movie search with dynamic results from TMDB
+- Browse trending, top-rated, and now-playing movies with posters and descriptions
+- Detailed movie view with banner, overview, ratings, and release date
+- Responsive UI with Google Fonts and custom reusable widgets
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Technology     | Purpose                         |
+|----------------|----------------------------------|
+| Flutter        | UI development                   |
+| Firebase Auth  | User authentication              |
+| TMDB API       | Movie data fetching              |
+| Dart           | Programming language             |
+| Google Fonts   | Typography styling               |
+| HTTP Package   | API requests                     |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. Clone the repository
+   bash
+   git clone https://github.com/your-username/movie_app.git
+   cd movie_app
+2. Install dependencies
+   flutter pub get
+3. Add your own firebase option.
+4. Run the app
+   flutter run
+
+
+
