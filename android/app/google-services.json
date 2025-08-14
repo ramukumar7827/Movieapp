@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1035182894108",
+    "project_id": "ecom-app-bed72",
+    "storage_bucket": "ecom-app-bed72.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035182894108:android:fb68314f0964ae3bdc03d9",
+        "android_client_info": {
+          "package_name": "com.example.ecom_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGM1_PUSCMnknt1rj8dA5XFvhbSjBxsbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035182894108:android:e30c6125ccfe907adc03d9",
+        "android_client_info": {
+          "package_name": "com.example.firebase_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGM1_PUSCMnknt1rj8dA5XFvhbSjBxsbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035182894108:android:3362b0832fcf75d1dc03d9",
+        "android_client_info": {
+          "package_name": "com.example.movie_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGM1_PUSCMnknt1rj8dA5XFvhbSjBxsbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
