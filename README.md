@@ -20,6 +20,14 @@ A Flutter-based movie browsing application that allows users to explore trending
 | Dart           | Programming language             |
 | Google Fonts   | Typography styling               |
 | HTTP Package   | API requests                     |
+## Screensort
+<img width="392" height="858" alt="Screenshot 2025-08-15 001714" src="https://github.com/user-attachments/assets/2a2f0ede-9469-4b85-9d5d-93fffe773386" />
+<img width="385" height="850" alt="Screenshot 2025-08-15 000609" src="https://github.com/user-attachments/assets/44cad9fe-0b61-4dc3-919c-cdf0fd825370" />
+<img width="386" height="856" alt="Screenshot 2025-08-15 000411" src="https://github.com/user-attachments/assets/35aeb0ae-a2bf-44cc-bc05-77b61b034462" />
+<img width="385" height="857" alt="Screenshot 2025-08-15 000424" src="https://github.com/user-attachments/assets/79c6bed8-3435-4fd0-87b5-11910dbd23c1" />
+<img width="393" height="867" alt="Screenshot 2025-08-15 001702" src="https://github.com/user-attachments/assets/98f1fd46-b07a-4883-a27a-28be8eb43c79" />
+
+
 
 ## Installation
 
